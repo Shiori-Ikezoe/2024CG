@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 ul.ddmenu {
-	display: flex;
 	 margin: 0px; /* メニューバー外側の余白(ゼロ) */
 	 padding: 0px 0px 0px 15px; /* メニューバー内側の余白(左に15px) */
 	 background-color: #cc0000; /* バーの背景色(濃い赤色) */
